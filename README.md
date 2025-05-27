@@ -41,4 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="batch/cmd" width="40" height="40"/>
 </a>
 </p>
-
+<h3 align="left">🌟 My Dream 🌟</h3>
+<p align="left">
+  <a href="https://youtube.com/shorts/pEDzSODBaHM?si=iiieZ7CB9pithZJ_" target="_blank">43:70</a> 📖✨
+</p>
