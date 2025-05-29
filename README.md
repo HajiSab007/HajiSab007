@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **CMD**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HajiSab007](https://github.com/HajiSab007)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/HajiSab007)
 
-- 📫 How to reach me **taahayaseen7@gmail.com**
+- 📫 How to reach me **[Gmail](mailto:taahayaseen7@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
