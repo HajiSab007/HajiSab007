@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **[Gmail](mailto:taahayaseen7@gmail.com)**
 
+<h3 align="left">Problem</h3>
+
+- EGO
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/hajisab_robot" target="_blank">
