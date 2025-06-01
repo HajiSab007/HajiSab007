@@ -9,7 +9,7 @@
 
 <h3 align="left">Problem</h3>
 
-- EGO
+-  <a href="https://www.youtube.com/shorts/wd0rnYuXfR0" target="_blank">EGO</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +46,11 @@
 </a>
 </p>
 <h3 align="left">🌟 My Dream 🌟</h3>
-<p align="left">
-  <a href="https://youtube.com/shorts/pEDzSODBaHM?si=iiieZ7CB9pithZJ_" target="_blank">43:70</a> 📖✨
+<p align="left"> 
+  
+  - <a href="https://youtube.com/shorts/pEDzSODBaHM?si=iiieZ7CB9pithZJ_" target="_blank">43:70</a>
+
+  
 </p>
+
+
